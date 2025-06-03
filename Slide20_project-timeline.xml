@@ -1,0 +1,218 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="PIML 6-Month Timeline" id="timeline-gantt">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Title -->
+        <mxCell id="title" value="Physics-Informed ML Solar Forecasting - 6 Month Development Timeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="700" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Month Headers -->
+        <mxCell id="month1" value="Month 1&#xa;January 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e4e79;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="month2" value="Month 2&#xa;February 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e4e79;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="month3" value="Month 3&#xa;March 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e4e79;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="month4" value="Month 4&#xa;April 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e4e79;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="month5" value="Month 5&#xa;May 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e4e79;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="month6" value="Month 6&#xa;June 2025" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e4e79;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1100" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Phase Labels -->
+        <mxCell id="phase1" value="Foundation &amp;&#xa;Data Infrastructure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase2" value="Physics Engine&#xa;Development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase3" value="ML Model&#xa;Development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="605" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase4" value="Integration &amp;&#xa;Testing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="795" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase5" value="Pilot&#xa;Deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="975" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase6" value="Scale Prep &amp;&#xa;Handover" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1150" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Task Bars -->
+        <!-- Month 1 Tasks -->
+        <mxCell id="task1_1" value="Project Setup &amp; Architecture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="205" y="200" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="task1_2" value="NOAA GFS Integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Month 2 Tasks -->
+        <mxCell id="task2_1" value="Core Physics Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="385" y="240" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="task2_2" value="Panel Characterization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Month 3 Tasks -->
+        <mxCell id="task3_1" value="NN Architecture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="565" y="280" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="task3_2" value="Training &amp; Validation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Month 4 Tasks -->
+        <mxCell id="task4_1" value="System Integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="745" y="320" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="task4_2" value="Testing Suite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="830" y="320" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Month 5 Tasks -->
+        <mxCell id="task5_1" value="Pilot Setup" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="925" y="360" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="task5_2" value="Operations &amp; Refine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="1010" y="360" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Month 6 Tasks -->
+        <mxCell id="task6_1" value="Scale Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="1105" y="400" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="task6_2" value="Documentation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="1190" y="400" width="85" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Milestones -->
+        <mxCell id="m1" value="M1: Data Pipeline Live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d4e1f5;strokeColor=#1e4e79;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="m2" value="M2: Physics Complete" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d4e1f5;strokeColor=#1e4e79;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="m3" value="M3: ML v1.0" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d4e1f5;strokeColor=#1e4e79;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="m4" value="M4: Integrated" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d4e1f5;strokeColor=#1e4e79;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="m5" value="M5: Pilot Live" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d4e1f5;strokeColor=#1e4e79;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="990" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="m6" value="M6: Production" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d4e1f5;strokeColor=#1e4e79;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1200" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Dependencies (Arrows) -->
+        <mxCell id="dep1" edge="1" parent="1" source="task1_2" target="task2_1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="215" as="sourcePoint" />
+            <mxPoint x="385" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="dep2" edge="1" parent="1" source="task2_1" target="task3_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="dep3" edge="1" parent="1" source="task3_2" target="task4_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="dep4" edge="1" parent="1" source="task4_2" target="task5_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="dep5" edge="1" parent="1" source="task5_2" target="task6_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        
+        <!-- Team Allocation Box -->
+        <mxCell id="team" value="Team Allocation (FTE)" style="swimlane;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="200" height="180" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="team_detail" value="• Technical Lead: 100%&#xa;• ML Engineers (2): 200%&#xa;• Physics Expert: 50%&#xa;• Backend Dev: 100%&#xa;• DevOps: 50%&#xa;&#xa;Total: 5.5 FTE" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11" vertex="1" parent="team">
+          <mxGeometry x="10" y="30" width="180" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- Budget Box -->
+        <mxCell id="budget" value="Monthly Infrastructure" style="swimlane;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="200" height="180" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="budget_detail" value="• GCP Compute: $3,000&#xa;• Data Storage: $500&#xa;• ML Training: $2,000&#xa;• Monitoring: $500&#xa;&#xa;Total: $6,000/month" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11" vertex="1" parent="budget">
+          <mxGeometry x="10" y="30" width="180" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- Key Deliverables Box -->
+        <mxCell id="deliverables" value="Key Deliverables" style="swimlane;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="360" height="180" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="deliverables_detail" value="Month 1: Working NOAA data pipeline&#xa;Month 2: Physics engine with &lt;2% error&#xa;Month 3: ML model with &lt;10% nRMSE&#xa;Month 4: Integrated API with 99.9% uptime&#xa;Month 5: 100 panels in Jeju pilot&#xa;Month 6: Production-ready for 10K panels" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11" vertex="1" parent="deliverables">
+          <mxGeometry x="10" y="30" width="340" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- Risk Items -->
+        <mxCell id="risks" value="Critical Risks" style="swimlane;fontSize=12;fontStyle=1;fillColor=#fce5cd;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="860" y="540" width="420" height="180" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="risks_detail" value="1. Limited Korean solar data → Partner with KMA, transfer learning&#xa;2. NOAA API reliability → Implement fallbacks and caching&#xa;3. Model accuracy in monsoon → Seasonal models, expanded training&#xa;4. Pilot partner delays → Early engagement, multiple partners&#xa;5. Scaling bottlenecks → Load testing from Month 4" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11" vertex="1" parent="risks">
+          <mxGeometry x="10" y="30" width="400" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- Parallel Work Indicator -->
+        <mxCell id="parallel1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="parallel_label" value="Parallel Development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="275" width="120" height="20" as="geometry" />
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
